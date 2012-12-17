@@ -8,7 +8,7 @@
 -- [regis-food] Rhubarb Crumble
 -- =====================================
 
-print "Food [Master] - Loading Splits"
+print "Food [Modern] - Loading Splits"
 
 -- Banana Split
 

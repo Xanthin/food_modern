@@ -1,68 +1,36 @@
 Rubenwardy's Food Mod.
 ======================
 
-This mod adds food for minetest and is an ideal companion for the Farming (by PilzAdam) and the Animal (by Sapier) Mods.
+This mod is an extension for the food mod.
+It builds on the food mod, adding modern (western and european) foods
 
 1) List of Food
 
 2) License for Code
 
-In alpha development, but is still ok to use.
 
-Food
-====
+Food_modern
+===========
 
 Recipes coming on release of this mod.
 Read Code to find recipes before then
 
-Items
-* Cup / Glass
-* Mug
-* Oven
-
-Diary
-* Butter
-* Cheese
-
 Sandwiches
-* Venison Sandwich
-* Cheese Sandwich
 * Burger
-
-Baking
-* Bread
-* Bread Slices
-* Buns
-
-Soups
-* Tomato Soup
-* Chicken Soup
-
-Cakes
-* Plain Cake
-* Chocolate Cake
-* Carrot Cake
-
-Tarts
-* Strawberry Tart
-
-Crumbles
-* Rhubarb Crumble
+* Chips
 
 Drinks
-* Apple Juice
-* Cactus Juice
-* Coffee
-* Coffee Beans
 * Hot Chocolate
 * Chocolate Milkshake
 * Banana Milkshake
 * Strawberry Milkshake
 
+Snacks
+* Banana Split
+* Popcorn
+
 Misc
 * Cigerettes (takes 1 life away)
-* Cooked Meat
-* Sugar
 
 
 

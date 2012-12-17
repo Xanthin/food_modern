@@ -15,7 +15,7 @@ print ("Food: Loading extension: [Modern]")
 ----------------------Load Files-----------------------------
 
 
-dofile(minetest.get_modpath("food_modern").."/food/sandwich.lua")
+dofile(minetest.get_modpath("food_modern").."/food/burger.lua")
 
 dofile(minetest.get_modpath("food_modern").."/snacks/misc.lua")
 
