@@ -1,3 +1,9 @@
+Incompatible with the current version of the food mod!
+
+
+
+
+
 Rubenwardy's Food Mod.
 ======================
 
